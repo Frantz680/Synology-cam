@@ -31,4 +31,6 @@
 
 - Vous pouvez maintenant accéder au flux vidéo de votre caméra via l'interface Surveillance Station de votre Synology.
 
-Assurez-vous de consulter les manuels de votre caméra spécifique et de votre serveur Synology pour des instructions détaillées, car les étapes peuvent varier en fonction des modèles. De plus, gardez à l'esprit que l'utilisation du protocole HTTP peut poser des problèmes de sécurité, il est donc recommandé d'utiliser HTTPS si votre caméra et votre Synology le prennent en charge.
+Assurez-vous de consulter les manuels de votre caméra spécifique et de votre serveur Synology pour des instructions détaillées, 
+car les étapes peuvent varier en fonction des modèles. De plus, gardez à l'esprit que l'utilisation du protocole HTTP peut poser des problèmes de sécurité, 
+il est donc recommandé d'utiliser HTTPS si votre caméra et votre Synology le prennent en charge.
