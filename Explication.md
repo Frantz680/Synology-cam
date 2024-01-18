@@ -39,4 +39,5 @@ il est donc recommandé d'utiliser HTTPS si votre caméra et votre Synology le p
 
 ## Astuce et tuo
 
+https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks
 https://community.jeedom.com/t/camera-wanscam-hw0021/61432
