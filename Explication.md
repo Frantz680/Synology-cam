@@ -34,3 +34,9 @@
 Assurez-vous de consulter les manuels de votre caméra spécifique et de votre serveur Synology pour des instructions détaillées, 
 car les étapes peuvent varier en fonction des modèles. De plus, gardez à l'esprit que l'utilisation du protocole HTTP peut poser des problèmes de sécurité, 
 il est donc recommandé d'utiliser HTTPS si votre caméra et votre Synology le prennent en charge.
+
+
+
+## Astuce et tuo
+
+https://community.jeedom.com/t/camera-wanscam-hw0021/61432
