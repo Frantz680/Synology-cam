@@ -1,0 +1,1 @@
+Astuce pour le synology
