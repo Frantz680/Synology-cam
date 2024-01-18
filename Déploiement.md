@@ -1,6 +1,5 @@
 ## Déploiement d'une application ASP.NET (dotnet) :
 
-
 ### Prérequis :
 
 - Assurez-vous que votre Synology est compatible avec .NET Core. Vous pouvez vérifier la compatibilité sur le [site officiel de Microsoft](https://dotnet.microsoft.com/download/dotnet) ou dans le Centre de paquets de Synology.
